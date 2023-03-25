@@ -1,6 +1,6 @@
 # NITTE INSTITUE OF PROFESSIONAL EDUCATION 
 # Team Name : 404: Error
-# Problem Statement : Fake Product Identification using Blockchain
+# Problem Statement : Fake Product Identification using Blockchain Technology
 # Team Members : Abhay R, Nirmal S Nair, Pratheeksha, Nupur Tilakraj Bolar
 # Mentor : Dr. Rakesh S 
 
