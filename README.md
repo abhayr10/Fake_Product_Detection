@@ -20,7 +20,7 @@
 
 1. Clone the project
 ```
-git clone https://github.com/A4ANK/Fake-Product-Identification.git
+git clone https://github.com/abhayr10/Fake_Product_Detection.git
 ```
 2. Go to the project folder, open terminal there and run following command to install required node_modules:-
 ```
