@@ -1,4 +1,8 @@
-# Fake Product Identification using Blockchain
+# NITTE INSTITUE OF PROFESSIONAL EDUCATION 
+# Team Name: 404: Error
+# Topic: Fake Product Identification using Blockchain
+# Team Members: Abhay R, Nirmal S Nair, Pratheeksha, Nupur Tilakraj Bolar
+# Mentor: Dr. Rakesh S 
 
 ## Packages Required:-
 - Truffle v5.6.7 (core: 5.6.7)
