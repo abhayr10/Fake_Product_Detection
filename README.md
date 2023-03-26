@@ -1,10 +1,14 @@
 ## NITTE INSTITUE OF PROFESSIONAL EDUCATION 
-## Team Name : 404: Error
-## Problem Statement : Fake Product Identification using Blockchain Technology
-## Team Members : Abhay R, Nirmal S Nair, Pratheeksha, Nupur Tilakraj Bolar
-## Mentor : Dr. Rakesh S 
+## Team Name
+404: Error
+## Problem Statement : 
+Fake Product Identification using Blockchain Technology
+## Team Members : 
+Abhay R, Nirmal S Nair, Pratheeksha, Nupur Tilakraj Bolar
+## Mentor :
+Dr. Rakesh S 
 
-### Project Overview
+## Project Overview
 - Our system uses blockchain technology to store and verify product information at each stage of the supply chain. Each product has a unique hash generated based on its details and the hash is stored on the blockchain.
 - The system also includes a web application that allows suppliers and buyers to view product information and verify its authenticity.
 
