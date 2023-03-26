@@ -30,7 +30,7 @@ Dr. Rakesh S
 2. Metamask browser extension
 3. Anaconda Prompt
     
-### setup process 
+### Setup process 
 
 1. Clone the project
 ```
