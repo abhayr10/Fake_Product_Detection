@@ -1,22 +1,22 @@
-## NITTE INSTITUE OF PROFESSIONAL EDUCATION 
-## Team Name
+# NITTE INSTITUE OF PROFESSIONAL EDUCATION 
+## Team Name :
 404: Error
 ## Problem Statement : 
 Fake Product Identification using Blockchain Technology
 ## Team Members : 
-i) Abhay R
-ii) Nirmal S Nair
-iii) Pratheeksha
-iv) Nupur Tilakraj Bolar
+- Abhay R
+- Nirmal S Nair
+- Pratheeksha
+- Nupur Tilakraj Bolar
 ## Mentor :
 Dr. Rakesh S 
 
-## Project Overview
+### Project Overview
 - Our system uses blockchain technology to store and verify product information at each stage of the supply chain. Each product has a unique hash generated based on its details and the hash is stored on the blockchain.
 - The system also includes a web application that allows suppliers and buyers to view product information and verify its authenticity.
 
 
-## Packages Required:-
+### Packages Required:-
 - Truffle v5.6.7 (core: 5.6.7)
 - Ganache v7.5.0
 - Solidity v0.5.16 (solc-js)
@@ -25,12 +25,12 @@ Dr. Rakesh S
 - npm 7.5.1
 - HTML/CSS for the frontend.
 
-## Other Requirements:-
+### Other Requirements:-
 1. Any chromium based browser i.e. Chrome 
 2. Metamask browser extension
 3. Anaconda Prompt
     
-## setup process 
+### setup process 
 
 1. Clone the project
 ```
