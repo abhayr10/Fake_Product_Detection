@@ -11,12 +11,12 @@ Fake Product Identification using Blockchain Technology
 ## Mentor :
 Dr. Rakesh S 
 
-### Project Overview
+## Project Overview
 - Our system uses blockchain technology to store and verify product information at each stage of the supply chain. Each product has a unique hash generated based on its details and the hash is stored on the blockchain.
 - The system also includes a web application that allows suppliers and buyers to view product information and verify its authenticity.
 
 
-### Packages Required:-
+## Packages Required:-
 - Truffle v5.6.7 (core: 5.6.7)
 - Ganache v7.5.0
 - Solidity v0.5.16 (solc-js)
@@ -25,12 +25,12 @@ Dr. Rakesh S
 - npm 7.5.1
 - HTML/CSS for the frontend.
 
-### Other Requirements:-
+## Other Requirements:-
 1. Any chromium based browser i.e. Chrome 
 2. Metamask browser extension
 3. Anaconda Prompt
     
-### Setup process 
+## Setup process 
 
 1. Clone the project
 ```
