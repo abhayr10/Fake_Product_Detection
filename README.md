@@ -55,7 +55,7 @@ truffle compile
         - RPC SERVER (i.e HTTP://127.0.0.1:8545 ,from Ganache Server settings)
         - CHAIN CODE (i.e. 1337)
    - Import account using private key of any account from local blockchain available in Ganache.
-6. In terminal, run following commands:-
+6. In anaconda prompt, run following commands:-
 - Run migrations to deploy contracts.
 ```
 truffle migrate
