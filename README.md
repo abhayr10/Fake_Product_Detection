@@ -26,7 +26,7 @@ Dr. Rakesh S
 - HTML/CSS for the frontend.
 
 ## Other Requirements:-
-1. Any chromium based browser i.e. Chrome 
+1. Any browser i.e. Chrome 
 2. Metamask browser extension
 3. Anaconda Prompt
     
