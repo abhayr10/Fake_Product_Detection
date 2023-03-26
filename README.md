@@ -4,7 +4,10 @@
 ## Problem Statement : 
 Fake Product Identification using Blockchain Technology
 ## Team Members : 
-Abhay R, Nirmal S Nair, Pratheeksha, Nupur Tilakraj Bolar
+i) Abhay R
+ii) Nirmal S Nair
+iii) Pratheeksha
+iv) Nupur Tilakraj Bolar
 ## Mentor :
 Dr. Rakesh S 
 
